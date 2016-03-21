@@ -1,9 +1,0 @@
-{
-    "type": "sftp",
-    "host": "search.leog.in",
-    "username": "leo_g",
-    "password": "qwe123 roo",
-    "port": 2222,
-    "remotePath": "/sites/node-d3js-express",
-    "uploadOnSave": true
-}
