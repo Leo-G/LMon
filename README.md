@@ -9,7 +9,8 @@ LMON is a real time Linux Monitoring Application built with Node.js, Socket.io a
     
 Navigate your Browser to http://localhost:5001 and you should see Google style Gauges as follows.
 
-http://i.imgur.com/z5sRnmV.png
+![Real Time Linux Monitoring]
+(http://i.imgur.com/z5sRnmV.png)
 
 You can change the port in index.js if you need
 
@@ -18,3 +19,5 @@ You can change the port in index.js if you need
 See http://techarena51.com/index.php/visualizing-linux-server-resource-usage-with-socket-io-and-d3-js-gauges/
 
 Currently shows Memory and CPU usage will add other resources shortly.
+
+To install Nodejs on Linux see https://github.com/Leo-G/Flask-Scaffold/wiki/Headless-Testing-Angularjs-apps-with-Protractor-and-Selenium-on-Ubuntu-14.04
