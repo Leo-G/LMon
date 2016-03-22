@@ -1,7 +1,12 @@
 {
-  "name": "socket-chat-example",
+  "name": "LMON",
   "version": "0.0.1",
-  "description": "my first socket.io app",
+  "keywords" : ["Linux", "Linux Monitoring", "Real Time CPU usage", "Real Time Memory usage", "Server", "D3.js", "Socket.io", "Node.js OS"],
+  "bugs" : { "url" : "https://github.com/Leo-G/LMON/issues"
+                , "email" : "leo@techarena51.com"
+              },
+  "description": "Real Time Linux Monitoring App built with Node.js, Socket.io and D3.js Gauges",
+  { "license" : "MIT" }
   "dependencies": {
   "socket.io": "latest"
   }
